@@ -29,7 +29,7 @@ jobs:
         with:
           server: 82.198.232.10
           username: u990703575.nuvellapromocode.online
-          password: ""
+          password: "@Nuvellapromocode@123!"
           port: 21
           local-dir: ./dist/
           server-dir: /public_html/
